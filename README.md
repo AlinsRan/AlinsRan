@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 -->
 
 - Coder/Open Source Contributor
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
   - Kubernetes
   - APISIX
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
   - Cloud Native
   - Service Mesh
  

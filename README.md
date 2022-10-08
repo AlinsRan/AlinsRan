@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 
 - Coder/Open Source Contributor
 - 🔭 I’m currently working on:
-  - Kubernetes
-  - APISIX
+  - APISIX Ingress
 - 🌱 I’m currently learning:
   - Cloud Native
   - Service Mesh
+  - Kubernetes
  
 
 
